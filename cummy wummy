@@ -33,7 +33,7 @@
 	--dplus-background-color-alpha: 0.8;
 }
 .theme-light {
-	--dplus-backdrop: url(https://i.vgy.me/TmubgQ.jpg);
+	--dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
 	
 	--dplus-accent-color-hue: 320;
 	--dplus-accent-color-saturation: 60%;
@@ -730,7 +730,7 @@ that have popups, or else the menu breaks when you hover over them */
 .colorDefault-CDqZdO:not(.labelContainer-2vJzYL) /* regular buttons, except context menu */ {
 	background-color: var(--dplus-bgc-button);
 	transition: var(--dplus-anim-button);
-
+}
 
 [id^="status-picker-"] /* status picker (who would've guessed?) */ {
 	background-color: transparent !important;
@@ -743,7 +743,7 @@ that have popups, or else the menu breaks when you hover over them */
 	background-color: var(--dplus-bgc-button-hover);
 	transition: var(--dplus-anim-button);
 }
-
+}
 
 
 .item-1OdjEX.colorDanger-3n-KnP:hover {background-color: #f04747;}
@@ -2228,4 +2228,3 @@ html[style^="font-size: 93.75%;"] { --chat-font-scaling: 0.9375; }
 	border-radius: var(--dplus-radius-ui) !important;
 	margin: calc(var(--dplus-spacing-ui) / 2) !important;
 }
-
